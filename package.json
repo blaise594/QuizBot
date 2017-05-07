@@ -1,0 +1,23 @@
+{
+  "name": "quizbot",
+  "version": "6.1.0",
+  "description": "a flashcards bot that can be used to study quizlet flashcards",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blaise594/QuizBot.git"
+  },
+  "author": "Daniel Rogers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blaise594/QuizBot/issues"
+  },
+  "homepage": "https://github.com/blaise594/QuizBot#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
